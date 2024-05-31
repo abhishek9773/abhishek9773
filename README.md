@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-- 💬 Ask me about **java , DSA , javaScript, react-native, computer-science-fundametal-subject, springBoot**
+- 💬 Ask me about **java , DSA , javaScript, react, computer-science-fundametal-subject, springBoot, Startup**
 
-- 📫 How to reach me **aaanand9773@gmail.com**
+- 📫 How to reach me **abhishekkumar.sde2024@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
