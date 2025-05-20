@@ -1,22 +1,61 @@
-<h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hey 👋, I'm Abhishek Kumar</h1>
 
-
-- 💬 Ask me about **java , DSA , javaScript, react, computer-science-fundametal-subject, springBoot, Startup**
-
-- 📫 How to reach me **abhishekkumar.sde2024@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<div style="backgrond-color: white">
-<a href="https://twitter.com/anand9773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anand9773" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/4d-developer-3bb4bb219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="4d-developer-3bb4bb219" height="30" width="40" /></a>
-<a href="https://instagram.com/4ddeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4ddeveloper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/4ddeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="4ddeveloper" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anand9773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand9773" height="30" width="40" /></a>
+<p align="center">
+  A self-taught full-stack developer passionate about building modern web applications and backend systems.<br/>
+  Focused on Java, Spring Boot, React, and everything in between.
 </p>
-</div>
 
-**Keep Coding ❤**
+---
 
+## 🔧 Tech Stack
+- **Languages:** Java, JavaScript, TypeScript, python
+- **Backend:** Spring Boot,spring security, REST API, Microservices, PostgreSQL, MySQL  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Tools:** Git, Docker, Firebase, Supabase, Vercel, Postman , kafka, etc. 
+- **CS Knowledge:** DSA, OS, DBMS, CN, JWT Auth, CI/CD Basics  
+
+---
+
+## 🌐 Frontend Projects
+
+| Project | Description | Live Demo | Code |
+|--------|-------------|-----------|------|
+| **FarmHub** | A farmer-focused platform with marketplace, services & more | [🌱 Live](https://farmhub-seven.vercel.app) | [🔗 GitHub](https://github.com/abhishek9773/Farmhub) |
+| **FarmHub Dashboard** | Admin dashboard to manage listings, rentals, and orders | [📊 Live](https://admin-dashboard-delta-drab.vercel.app) | [🔗 GitHub](https://github.com/abhishek9773/Farmhub-dashboard) |
+| **Instagram UI Clone** | A frontend clone of Instagram built with React | [📸 Live](https://instagram-web-ui-wheat.vercel.app) | [🔗 GitHub](https://github.com/abhishek9773/Instagram-web-UI) |
+
+---
+
+## 🖥️ Java Backend Projects (Spring Boot)
+
+| Project | Description | Code |
+|--------|-------------|------|
+| **Trading API** | Spring Boot REST API for mock trading functionality | [🔗 GitHub](https://github.com/abhishek9773/trading-api) |
+| **Project Management API** | Manage users, tasks, projects with JWT auth | [🔗 GitHub](https://github.com/abhishek9773/project-management-api) |
+| **X-Clone API** | A Twitter-like backend with posting, likes, replies | [🔗 GitHub](https://github.com/abhishek9773/x-clone.com-backend) |
+
+---
+
+## 🧱 Microservices Architecture (Spring Boot + Eureka)
+
+All the below projects are connected and form a microservices system:
+
+| Service | Description | GitHub |
+|---------|-------------|--------|
+| **Task Service** | Microservice for managing tasks | [🔗 GitHub](https://github.com/abhishek9773/task-service-api) |
+| **Submit Service** | Handles task submissions | [🔗 GitHub](https://github.com/abhishek9773/submit-service-api) |
+| **Authentication Service** | JWT-based user authentication microservice | [🔗 GitHub](https://github.com/abhishek9773/authentication-service-api) |
+| **Eureka Server** | Service discovery using Netflix Eureka | [🔗 GitHub](https://github.com/abhishek9773/eureka-server) |
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/abhishek9773)
+- [GitHub](https://github.com/abhishek9773)
+- [Leetcode](https://leetcode.com/u/abhishek9773/)
+- 📧 abhishekkumar.sde2024@gmail.com
+
+---
+
+> *“Consistency beats talent when talent doesn’t show up.”*  
+> Let’s build cool stuff together 🚀
