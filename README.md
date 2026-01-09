@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋, I'm Abhishek Kumar</h1>
 
 <p align="center">
-  A self-taught full-stack developer passionate about building modern web applications and backend systems.<br/>
-  Focused on Java, Spring Boot, React, and everything in between.
+<p>
+  An AIML student and Backend Developer focused on building scalable systems with Java, Spring Boot, and Python.<br/>
+  Passionate about integrating AI with modern backend architectures and intelligent systems.
 </p>
 
 ---
